@@ -10,8 +10,6 @@ This project focuses on recognizing Arabic handwritten text using two feature ex
 - [Methodology](#methodology)
 - [Results, Analysis, Visualization, and Comparison](#results-analysis-visualization-and-comparison)
 - [Conclusion and Future Work](#conclusion-and-future-work)
-- [Setup and Usage](#setup-and-usage)
-- [Technologies Used](#technologies-used)
 - [Contributors](#contributors)
 
 ---
